@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="25472" started-at="2020-08-12T10:03:38 IST" finished-at="2020-08-12T10:04:04 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="25472" started-at="2020-08-12T10:03:38 IST" finished-at="2020-08-12T10:04:04 IST">
+      <class name="TestOne">
+        <test-method status="PASS" signature="systemTesting()[pri:0, instance:TestOne@61f8bee4]" name="systemTesting" duration-ms="25415" started-at="2020-08-12T10:03:38 IST" finished-at="2020-08-12T10:04:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- systemTesting -->
+      </class> <!-- TestOne -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
